@@ -7,7 +7,10 @@
 ## About Me
 I'm a dedicated software developer with a strong passion for coding and problem-solving. I thrive on exploring new technologies and actively contributing to innovative projects. My goal is to develop cutting-edge solutions and make meaningful contributions to the tech community.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prince1837&show_icons=true&locale=en&layout=compact" alt="prince1837" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prince1837&show_icons=true&locale=en&layout=compact" alt="prince1837" />
+</div>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prince1837" alt="prince1837" />
 </div>
