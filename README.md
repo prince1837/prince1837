@@ -13,7 +13,7 @@ I'm a dedicated software developer with a strong passion for coding and problem-
 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prince1837" alt="prince1837" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/" alt="prince1837" />
 </div>
 
 
