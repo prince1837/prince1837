@@ -26,5 +26,3 @@ I'm a dedicated software developer with a strong passion for coding and problem-
 - **Portfolio:** [prince1837.github.io/PORTFOLIO](https://prince1837.github.io/PORTFOLIO/)
 
 ---
-
-Made with ❤️ by Prince Kumar
