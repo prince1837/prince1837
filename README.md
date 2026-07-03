@@ -10,13 +10,21 @@ I'm a dedicated software developer with a strong passion for coding and problem-
 
 <div align="center">
 
-![Prince's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prince1837&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=prince1837&show_icons=true&theme=dark&count_private=true)
 
-![Prince's Streak Stats](https://streak-stats.demolab.com/?user=prince1837&theme=dark&hide_border=false)
+</div>
 
-### 📈 Most Used Languages
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prince1837&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://streak-stats.demolab.com/?user=prince1837&theme=dark)
+
+</div>
+
+## 📈 Most Used Languages:
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=prince1837&theme=dark&layout=compact&count_private=true)
 
 </div>
 
@@ -24,5 +32,13 @@ I'm a dedicated software developer with a strong passion for coding and problem-
 - **LinkedIn:** [Prince Kumar](https://in.linkedin.com/in/prince-kumar-6ab420175)
 - **Twitter:** [Prince](https://twitter.com/Thakur_Pk21)
 - **Portfolio:** [My Portfolio](https://prince1837.github.io/PORTFOLIO/)
+
+---
+
+<div align="center">
+
+**Made with ❤️ by Prince Kumar**
+
+</div>
 
 <!-- Proudly created with real-time GitHub stats -->
