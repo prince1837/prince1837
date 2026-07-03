@@ -5,14 +5,10 @@
 </div>
 
 ## About Me
-I'm a dedicated software developer with a strong passion for coding and problem-solving. I thrive on exploring new technologies and actively contributing to innovative projects. My goal is to develop cutting-edge solutions and make meaningful contributions to the tech community.
+I'm a dedicated software developer with a strong passion for coding and problem-solving. I thrive on exploring new technologies and actively contributing to innovative projects.
 
 <div align="center">
-  <img src="https://github-readme-stats.anuraghazra.vercel.app/api/top-langs?username=prince1837&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prince1837" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.anuraghazra.vercel.app/api/top-langs?username=prince1837&layout=compact" alt="Top Languages" />
 </div>
 
 ## Connect with Me
