@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Prince Kumar
 
 <div align="center">
-  <img align='center' src="[https://github-readme-stats.vercel.app/api?username=prince1837&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true&hide=contrib](https://prince1837.github.io/PORTFOLIO/)s" width="460">
+  <img align='center' src="https://github-readme-stats.vercel.app/api?username=prince1837&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true&hide=contribs" width="460">
 </div>
 
 ## About Me
